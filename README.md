@@ -1,5 +1,5 @@
 
-<h1>RPG Adventure Game</h1>
+<h1>RPG DRAGON SLAYER</h1>
 Welcome to the RPG Adventure Game repository! This is a simple text-based role-playing game built with JavaScript. Embark on a thrilling journey, fight monsters, buy weapons, and explore different locations. Below, you'll find information about the game structure, mechanics, and how to play.
 
 Game Overview
