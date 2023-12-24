@@ -7,9 +7,8 @@ The game features a character with initial stats such as experience points (xp),
 
 <H2>How to Play</H2>
 1. Starting Point: The adventure begins in the town square. From here, you can navigate to the store, explore the cave, or face the mighty dragon.
-
+<BR>
 2. Locations:
-
 <BR>Town Square: Options include going to the store, entering the cave, or confronting the dragon.
 <BR>Store: Purchase health or weapons, or return to the town square.
 <BR>Cave: Battle different monsters or return to the town square.
