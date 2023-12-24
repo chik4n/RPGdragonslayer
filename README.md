@@ -10,16 +10,16 @@ The game features a character with initial stats such as experience points (xp),
 
 2. Locations:
 
-Town Square: Options include going to the store, entering the cave, or confronting the dragon.
-Store: Purchase health or weapons, or return to the town square.
-Cave: Battle different monsters or return to the town square.
-Fight: Engage in combat with a monster using various options like attack, dodge, or run.
-Kill Monster: After defeating a monster, gain experience points and gold.
-Win: Conquer the dragon and win the game.
-Lose: If your health reaches zero, you lose. You can restart from the town square.
-Combat Mechanics:
+<BR>Town Square: Options include going to the store, entering the cave, or confronting the dragon.
+<BR>Store: Purchase health or weapons, or return to the town square.
+<BR>Cave: Battle different monsters or return to the town square.
+<BR>Fight: Engage in combat with a monster using various options like attack, dodge, or run.
+<BR>Kill Monster: After defeating a monster, gain experience points and gold.
+<BR>Win: Conquer the dragon and win the game.
+<BR>Lose: If your health reaches zero, you lose. You can restart from the town square.
 
-3. Choose your weapon wisely from the inventory.
+3. Combat Mechanics:
+Choose your weapon wisely from the inventory.
 Attack the monster, dodge its attacks, and manage your health strategically.
 Weapons have different power levels, and monsters vary in difficulty.
 
